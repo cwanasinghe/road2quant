@@ -1,0 +1,20 @@
+# Pinned-light requirements. Prefer `pip install -e ".[dev,quant]"` from pyproject.toml.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+scikit-learn>=1.3
+statsmodels>=0.14
+arch
+filterpy
+yfinance
+pandas-datareader
+cvxpy
+QuantLib
+jupyterlab
+ipykernel
+pytest
+pytest-cov
+ruff
+black
+mypy
