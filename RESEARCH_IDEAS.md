@@ -4,12 +4,11 @@
 
 #  Research topics
 ## Data science
-- [ ] Monte Carlo simulations
+- [x] Monte Carlo simulations
 - [ ] Regression analysis
 - [ ] Mean variance optimisation
 - [ ] Maximise returns
 - [ ] Compute efficient frontier
-
 - [ ] Statistical distributions
 - [ ] Satellite imagery, data scraping, job postings, credit card data, web scraping, geolocation foot traffic, private jet tracking, waste water analysis
 - [ ] Features vs labels
@@ -17,7 +16,7 @@
 - [ ] Overfitting
 - [ ] Cross validation
 - [ ] Gradient descent
-- [ ] Mean and variance
+- [x] Mean and variance
 - [ ] Stationarity
 - [ ] Autocorrelation
 - [ ] Volatility clustering
@@ -27,11 +26,16 @@
 - [ ] Robin stocks
 - [ ] Alpaca markets for algorithmic trading
 - [ ] The public API
+- [ ] AKShare, EDGAR tools (13F)
+- [ ] Binance API for crypto
+- [ ] quandL
+- [ ] Stooq webscrape
+- [ ] Investpy
 
 ## Coding
 - [ ] Memory management
-- [ ] Data structures and algorithms
-- [ ] Databases
+- [x] Data structures and algorithms
+- [x] Databases
 - [ ] Meta prompting
 - [ ] Libraries: quantlib, pypolio, pmdarima
 
@@ -152,20 +156,19 @@
 - [ ] Volume
 - [ ] Positioning data - CFTC COT, prime brokerage data, dealer gamma
 
-
 ## Maths
-- [ ] Linear Algebra
-- [ ] Probability and statistics
+- [x] Linear Algebra
+- [x] Probability and statistics
 - [ ] Multivariate and stochastic calculus
 - [ ] Rule of 72
 - [ ] Rule of 4 and 2
 - [ ] Steady state vectors of markov chains - deltatrendtrading
-- [ ] Matrices
+- [x] Matrices
 - [ ] Laplacian diffusion
 - [ ] Persistent homology
 - [ ] Hamiltonian mechanics
 - [ ] Larangian mechanics
-- [ ] Gaussian distributions
+- [x] Gaussian distributions
 - [ ] Simpson's paradox
 - [ ] Gaussian elimination
 - [ ] Covariance matrices
@@ -176,14 +179,14 @@
 
 ## Code
 - [ ] C++
-
+- [ ] Python
 
 ## Resources
 - [ ] Numer.ai
 - [ ] QuantConnect
-- [ ] Flirting with models podcast
+- [x] Flirting with models podcast
 - [ ] Acquired podcast ep on RenTech
-- [ ] Signals and threads podcast
+- [x] Signals and threads podcast
 - [ ] Prove it video series from Optiver
 - [ ] Andrej Karpathy How I use LLMs youtube
 - [ ] Stanford CS229 youtube
@@ -191,7 +194,7 @@
 - [ ] 3Blue1Brown youtube channel
 - [ ] developers.google.com/machine-learning/crash-course
 - [ ] www.coursera.org/learn/machine-learning
-- [~] kaggle
+- [x] kaggle
 - [ ] huggingface.co/learn/llm-course/chapter1/1
 - [ ] Harvard University youtube, Statistic 110 probability
 - [ ] Master Key System book
@@ -220,12 +223,6 @@
 - [ ] FRED, Tiingo, QUIVER QUANTITATIVE
 - [ ] https;//github.com/NVIDIA-AI-Blueprints/quantitative-portfolio-optimization
 - [ ] https;//github.com/KxSystems/nvidia-kx-samples/tree/main/ai-model-distillation-for-financial-data
-- [ ] AKShare, EDGAR tools (13F)
-- [ ] Binance API for crypto
-- [ ] quandL
-- [ ] Stooq webscrape
-- [ ] Investpy
-
 
 ## Papers
 - [ ] The strength of weak ties paper
