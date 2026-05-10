@@ -4,18 +4,34 @@
 
 #  Research topics
 ## Data science
-- [~] Monte Carlo simulations
-- [~] Regression analysis
-- [~] Mean variance optimisation
+- [ ] Monte Carlo simulations
+- [ ] Regression analysis
+- [ ] Mean variance optimisation
 - [ ] Maximise returns
 - [ ] Compute efficient frontier
-- [ ] Papers: Attention is all you need, Scaling laws for neural language models, Emergent social conventiosn and collective bias in LLM populations.
+
 - [ ] Statistical distributions
+- [ ] Satellite imagery, data scraping, job postings, credit card data, web scraping, geolocation foot traffic, private jet tracking, waste water analysis
+- [ ] Features vs labels
+- [ ] Exploratory data analysis
+- [ ] Overfitting
+- [ ] Cross validation
+- [ ] Gradient descent
+- [ ] Mean and variance
+- [ ] Stationarity
+- [ ] Autocorrelation
+- [ ] Volatility clustering
+- [ ] Central limit theorem
+
+## APIs
+- [ ] Robin stocks
+- [ ] Alpaca markets for algorithmic trading
+- [ ] The public API
 
 ## Coding
 - [ ] Memory management
-- [~] Data structures and algorithms
-- [~] Databases
+- [ ] Data structures and algorithms
+- [ ] Databases
 - [ ] Meta prompting
 - [ ] Libraries: quantlib, pypolio, pmdarima
 
@@ -78,31 +94,96 @@
 - [ ] Volatility estimator
 - [ ] Correlation heatmap
 - [ ] Event impact model
+- [ ] Put call parity
+- [ ] Arbitrage
+- [ ] Stock sectors: defensive (recession proof - lower growth potential), cyclical (high growth potential - good in a strong market)
+- [ ] Market cap
+- [ ] Price/earnings ratio
+- [ ] Dividend yield
+- [ ] Gilts
+- [ ] 52 week high/low
+- [ ] Time series momentum
+- [ ] Swaps - David Swensen
+- [ ] Spectral risk distribution
+- [ ] Hidden markov model
+- [ ] Geometric brownian motion
+- [ ] Kelly criterion
+- [ ] ARIMA
+- [ ] Value at risk and expected shortfall
+- [ ] Time series momentum models
+- [ ] Volatility targeting models
+- [ ] Relative value / spread models
+- [ ] Macro regime allocating models
+- [ ] Factor and correlation models
+- [ ] GARCH
+- [ ] Conditional volatility
+- [ ] Convex payoff structures
+- [ ] Probability of backtest overfitting
+- [ ] Bayesian black-litterman portfolio optimisation
+- [ ] Survival-based risk prediction
+- [ ] Model free reinforcement learning for factor portfolios
+- [ ] Statistics of sharpe ratios
+- [ ] Systematic portfolio trading via convex optimisation
+- [ ] Time-series vs cross-setional factor analysis
+- [ ] Numeraire-invariant quadratic hedging
+- [ ] Pricing exotic derivatives and model risk
+- [ ] Regime-switching factor strategies
+- [ ] Exchange traded funds
+- [ ] Industry analysis, business model analysis, financial strength and growth analysis, stock analysis, valuations and price targets, owners and management
+- [ ] EPS
+- [ ] Enterprise value, net debt, leverage ratio, acquisition multiple, ebitda margin, equity contribution, LTV, dividend yield, MOIC, price per share during IPO
+- [ ] What impact does recent events have on equities and the markets
+- [ ] Equity research reports - consensus estimates and projections
+- [ ] Simplify balance sheets
+- [ ] SSNR
+- [ ] High frequency trading
+- [ ] Statistical Arbitrage
+- [ ] Systematic macro and equity
+- [ ] Orthogonal risk integrated alpha (strategies - orthogonalisation - allocation - risk - execution)
+
+## Indicators
+- [ ] MACD
+- [ ] Simple moving average
+- [ ] Stochastics
+- [ ] Fibonacci retracement
+- [ ] RSI
+- [ ] Bollinger bands
+- [ ] Donchian channels
+- [ ] Volume
+- [ ] Positioning data - CFTC COT, prime brokerage data, dealer gamma
 
 
 ## Maths
-- [~] Linear Algebra
-- [~] Probability and statistics
+- [ ] Linear Algebra
+- [ ] Probability and statistics
 - [ ] Multivariate and stochastic calculus
 - [ ] Rule of 72
 - [ ] Rule of 4 and 2
 - [ ] Steady state vectors of markov chains - deltatrendtrading
-- [~] Matrices
+- [ ] Matrices
 - [ ] Laplacian diffusion
 - [ ] Persistent homology
 - [ ] Hamiltonian mechanics
 - [ ] Larangian mechanics
-
+- [ ] Gaussian distributions
+- [ ] Simpson's paradox
+- [ ] Gaussian elimination
+- [ ] Covariance matrices
+- [ ] Laplace eigenfunction
+- [ ] Risk geometry
+- [ ] Improper integrals
+- [ ] Probability density functions
 
 ## Code
-- [ ]
+- [ ] C++
+
 
 ## Resources
 - [ ] Numer.ai
 - [ ] QuantConnect
-- [~] Flirting with models podcast
+- [ ] Flirting with models podcast
 - [ ] Acquired podcast ep on RenTech
-- [~] Signals and threads podcast
+- [ ] Signals and threads podcast
 - [ ] Prove it video series from Optiver
 - [ ] Andrej Karpathy How I use LLMs youtube
 - [ ] Stanford CS229 youtube
@@ -125,6 +206,38 @@
 - [ ] afterhour
 - [ ] Matric method in data analysis Gilbert Strang
 - [ ] Leetcode
+- [ ] StatQuest with Josh Starmer
+- [ ] Dataquest youtube - build your first machine learning project
+- [ ] Infinite codes youtube - learn machine learning like a genius and not waste time
+- [ ] Stanford CS229 youtube
+- [ ] Krish Naik youtube - complete statistics for data science in 6 hours
+- [ ] Dr Trefor Bazett youtube
+- [ ] Weight and biases math for ML youtube
+- [ ] Data sets: common crawl, hugging face, SEC EDGAR data, sports APIs
+- [ ] Python for finance book
+- [ ] Machine learning for algorithmic trading book
+- [ ] CS153 frontier systems class youtube
+- [ ] FRED, Tiingo, QUIVER QUANTITATIVE
+- [ ] https;//github.com/NVIDIA-AI-Blueprints/quantitative-portfolio-optimization
+- [ ] https;//github.com/KxSystems/nvidia-kx-samples/tree/main/ai-model-distillation-for-financial-data
+- [ ] AKShare, EDGAR tools (13F)
+- [ ] Binance API for crypto
+- [ ] quandL
+- [ ] Stooq webscrape
+- [ ] Investpy
+
+
+## Papers
+- [ ] The strength of weak ties paper
+- [ ] Relativistic black scholes model paper
+- [ ] FCOC: A fractal chaotic co driven framework for financial volatility forecasting paper
+- [ ] The bull of wall street: experimental analysis of testosterone and asset trading paper
+- [ ] Mean-field games with differing beliefs for algorithmic trading
+- [ ] Uncertainty aware deep hedging paper
+- [ ] SCI space for papers
+- [ ] Papers: Attention is all you need, Scaling laws for neural language models, Emergent social conventiosn and collective bias in LLM populations.
+- [ ] The mystery of capital - De Soto
+- [ ] Experimental tests of the endowment effect and the coase theorem
 
 
 ## Working frameworks
